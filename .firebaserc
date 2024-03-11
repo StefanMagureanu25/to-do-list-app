@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "to-do-list-app-780c7": {
+      "hosting": {
+        "to-do-list-app": [
+          "taskpulse-pro"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "to-do-list-app-780c7"
+  }
+}
